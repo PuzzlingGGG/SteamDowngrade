@@ -52,11 +52,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - your-email@example.com
-
-Project Link: [https://github.com/PuzzlingGGG/SteamDowngrade/](https://github.com/PuzzlingGGG/SteamDowngrade/)
-
-:)
